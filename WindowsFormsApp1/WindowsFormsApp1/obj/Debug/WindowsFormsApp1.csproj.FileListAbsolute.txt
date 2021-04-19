@@ -1,0 +1,17 @@
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\I.T\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources

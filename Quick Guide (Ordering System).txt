@@ -1,0 +1,31 @@
+Ordering System Process:
+
+Visual Studio 2019
+
+1. Login to the system (You can add data manually in MySQL database to add an employee data)
+2. Click the Category combo box to select items based on category
+3. Click an item row in the DataGridView and click "Add Order" to add the specific item in the "Pending Orders" List
+(You may add many items as you can)
+4. To remove an item in the "Pending Orders" List, click an item in the DataGridView and click "Remove item" button.
+5. Enter coupon code "GODISC10" in the coupon text box and click "Enter Coupon". Any other coupons will have an "Invalid Coupon Code" error.
+6. To place an order simply click "Place Order" button.
+7. You may view order summary details in the DataGridView on the left side of the form.
+8. Choose a bank on the combobox field and enter the bank number, then click "Place Payment". It will prompt you your amount paid.
+9. It will go back to the Ordering form and you may view the Order Summary by clicking the "Order Summary" button. 
+10. You may view the Orders in the DataGridView on the left side and click each orders and you may see order details on the right DataGridView.
+11. You may logout by clicking "Logout" button on the Ordering form.
+
+Verification Errors:
+
+1. Error on removing an item and placing an order when there are no orders in Ordering form.
+2. Coupon textbox and button are disabled when no item placed in orders.
+3. Credit Card Number text field is disabled when bank field is empty.
+
+MySQL Connection details:
+
+username: root
+password: root
+db name: orderingSystem
+port: 3306
+hostname: localhost
+Db Model: attached file
